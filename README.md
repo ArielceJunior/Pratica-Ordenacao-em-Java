@@ -13,6 +13,7 @@
 <figure>
   <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/blob/main/ListCSV/Images/candidate.png" alt="Candidato">
 </figure>
+
 ### Classe Main:
 <figure>
   <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/blob/main/ListCSV/Images/main.png" alt="Main">
