@@ -11,10 +11,10 @@
 ### Classe Candidato:
 
 <figure>
-  <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/tree/main/ListCSV/Images/candidate.png" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/tree/main/ListCSV/Images/candidate.png" alt="Candidato">
 </figure>
 <figure>
-  <img src="https://github.com/ArielceJunior/FilaAtendimento/blob/main/images/telainicial2.png?raw=true" alt="Inicial">
+  <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/tree/main/ListCSV/Images/main.png" alt="Main">
 </figure>
-<figure>
-  <img src="https://
+
+  
