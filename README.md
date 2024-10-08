@@ -20,4 +20,6 @@
 </figure>
 
 ### Resultado:
-  
+<figure>
+  <img src="https://github.com/ArielceJunior/Pratica-Ordenacao-em-Java/blob/main/ListCSV/Images/console.png" alt="Main">
+</figure>
